@@ -5,26 +5,22 @@ Ce projet est à l'issue du Projet Dev pour la seconde année à Ynov filière I
 
 ## Présentation
 
-Trinity est un projet sur plateforme mobile qui a pour objectif de proposer un service d'accompagnement ludique durant les soirées.  
-Elle s'adresse donc principalement aux jeunes et à pour objectif de rassembler, tout en cherchant à limiter les abus de consommation d'alcool en soirée.  
-L'idée principale est donc de sortir en soirée accompagné tout en ayant la capacité à suivre sa consommation au cours de la soirée.
+Trinity est un projet sur plateforme WEB qui a pour objectif de proposer un Portfolio pour y enregistrer toutes les missions effectuer.
+Cette application web s'applique principalement dans le cade de mon cursus a Ynov campus Lyon et au recruteurs.  
+L'idée principale est donc de répertorié toutes missions que se soit stage alternance ou embauche ainsi que les projets.
 
 ## Installation de la configuration
-
-Pour lancer le projet, il faut télécharger Android Studio, le SDK Flutter, plus d'info sur : [FlutterDocumentation](https://docs.flutter.dev/get-started/install/windows)
-
-Configurer un [émulateur](https://devstory.net/10413/configurer-android-emulator-en-android-studio), ou connecter son téléphone avec un cable pour lancer l'application sur son [téléphone personnel](https://developer.android.com/studio/run/device)
+Avoir un serveur apache actif pour faire tourner l'application web si elle est non deployer ou alors sur internet si l'app est déployer.
 
 ## Lancement du projet
 
-_Pour lancer le projet, il suffit d'effectuer les commandes suivantes :_
+_Pour lancer le projet, il suffit d'effectuer les oppérations suivantes :_
 
-1. flutter upgrade
-2. flutter pub get
-3. flutter pub upgrade
-4. flutter run pour lancer le projet
-
-
+1. Cloner le repos Github  lien --> https://github.com/robinhio/PortfolioB2
+2. Dans le dossier "WWW" de Wampp mettre a la racine tous le projet
+3. lancer wamp
+4. Sur wampp server cliquer sur "Localhost"
+5. Acceder au site vie un navigateur
 
 # PortfolioB2 INFO Ynov Lyon 2021/2022 #
 

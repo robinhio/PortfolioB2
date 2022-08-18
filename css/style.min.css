@@ -38,6 +38,8 @@ a:hover {
   text-decoration: none;
   color: #333399; }
 
+img {
+    max-width: 50%; }
 
 .bg-fixed {
   background-size: cover; }
@@ -491,6 +493,7 @@ section {
 /*=================================
 =            PORTFOLIO            =
 =================================*/
+
 .filter-button-group {
   margin-bottom: 15px; }
   .filter-button-group a {
